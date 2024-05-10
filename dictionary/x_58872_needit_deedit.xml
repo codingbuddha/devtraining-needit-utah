@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="f6490e0e474686107fe8eb02d16d43f9" extends="task" label="DeedIt" max_length="40" name="x_58872_needit_deedit" type="collection">
+        <element label="Hi" max_length="40" name="hihi" type="string"/>
+    </element>
+</database>
